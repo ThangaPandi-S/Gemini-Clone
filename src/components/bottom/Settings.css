@@ -1,0 +1,12 @@
+.settings{
+    flex:1;
+    min-height: 100px;
+    padding-bottom: 15vh;
+    position: relative;
+    margin-top: 20px;
+}
+
+.settings-container{
+    max-width: 900px;
+    margin: auto;
+}

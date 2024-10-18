@@ -1,0 +1,35 @@
+
+.header{
+    flex:1;
+    height: 70px;
+    min-width: 80vw;
+
+    /* background-color: var(--bgc); */
+
+
+}
+.header nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+    padding: 20px;
+    /* color: var(--t-color); */
+    color: #585858;
+}
+
+.header nav p{
+    font-size: 30px;
+    font-weight: 600;
+
+}
+.header nav img{
+    width: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.header .theme{
+    padding: 5px 20px;
+    border-radius: 25px;
+    background-color: black;
+}
